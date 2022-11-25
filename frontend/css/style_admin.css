@@ -1,0 +1,22 @@
+/*code template css*/
+
+
+/*start form login*/
+
+.login{
+    width:350px;
+    min-height:350px;
+    border:#CCC solid 1px;
+    background:#f9f9f9;
+    padding:20px;
+    margin:20px auto;
+    box-shadow: 0 2px 7px rgba(0, 0, 0, 0.1);
+}
+.login h1{
+      font-size:28px;
+      color:#000;
+      text-align:center;
+}
+
+
+/*end form login*/
